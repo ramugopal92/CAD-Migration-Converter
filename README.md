@@ -81,4 +81,3 @@ After conversion, engineering validation is still recommended to verify:
 ## Disclaimer
 
 This project is shared for learning, portfolio, and CAD automation demonstration purposes.  
-No customer files, company data, or confidential production models are included.
